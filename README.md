@@ -93,8 +93,14 @@ def calculator(request):
 
 ## SERVER SIDE PROCESSING:
 
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/1c133720-a789-40d5-89b1-2f5a88059510" />
+
+
 
 ## HOMEPAGE:
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/14ff40a3-7b41-480a-bab2-c733a03fcaba" />
+
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/fbdb409b-115e-4120-9db7-9468f85f858a" />
 
 
 ## RESULT:
